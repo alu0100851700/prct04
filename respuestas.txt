@@ -1,0 +1,1 @@
+RVM es una gema que nos permite cambiar entre las diferentes versiones que existen de ruby.
